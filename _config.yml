@@ -1,8 +1,9 @@
 # Site settings
+remote_theme: willianjusten/cards-jekyll-template
 title: UrduLab
 description: An open incubator for Urdu language ideas and experiments in the digital space.
 baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "urdulab.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://urdulab.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: UrduLab
